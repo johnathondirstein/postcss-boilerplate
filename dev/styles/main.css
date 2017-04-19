@@ -1,0 +1,5 @@
+@import 'base/_setup';
+
+body {
+	background-color: green;
+}
